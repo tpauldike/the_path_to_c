@@ -1,4 +1,4 @@
-The Path to `C`
+# The Path to `C`
 The path to `C` is the renowned [*Journey through C*](https://github.com/tpauldike/journey_through_C) series reloaded.
 This series is about teaching `C programming` from the scratch in recorded Peer Learning Sessions with [Topman Paul-Dike](https://github.com/tpauldike), in a way that is easier for fellow students of ALX SE (who are serious indeed) to understand.
 
