@@ -9,5 +9,4 @@ The essence of saving the codes and video recordings is to keep something that a
 
 The video recordings are available on [this YouTube playlist](https://youtube.com/playlist?list=PLU10dryLOLEFp598xm9eH1nn_DRN7S5mt).
 ##### Author: [Topman Paul-Dike](https://github.com/tpauldike)
-
 [topman4loveworld@gmail.com](mailto:topman4loveworld@gmail.com)
