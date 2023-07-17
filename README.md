@@ -8,4 +8,6 @@ The codes here are written in the live sessions which do not have a particular t
 The essence of saving the codes and video recordings is to keep something that anyone learning `C programming` in ALX SE and beyond can refer to, at any moment in time.
 
 The video recordings are available on [this YouTube playlist](https://youtube.com/playlist?list=PLU10dryLOLEFp598xm9eH1nn_DRN7S5mt).
-##### Author: [Topman Paul-Dike](https://github.com/tpauldike) [topman4loveworld@gmail.com](mailto:topman4loveworld@gmail.com)
+##### Author: [Topman Paul-Dike](https://github.com/tpauldike)
+
+[topman4loveworld@gmail.com](mailto:topman4loveworld@gmail.com)
