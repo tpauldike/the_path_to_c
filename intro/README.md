@@ -5,7 +5,8 @@ In this session, we treated C in such a manner that is very beginner friendly, e
 - The compiler
 - ANSI C or ISO C
 - Setting up to write `C` programs
-- Why learn `C`? *(Why is C awesomw?)*
+- Why learn `C`?
+> *This is like discussing 'Why C is awesome'*
 - Structure of a `C` program
 - Keywords and datatypes in `C`
 - Comments
