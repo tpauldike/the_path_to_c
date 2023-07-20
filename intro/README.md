@@ -15,4 +15,4 @@ In this session, we treated C in such a manner that is very beginner friendly, e
 - Variables in `C`
 - Environment variables
 
-The video recording of the session will be available on YouTube on [this playlist](https://youtube.com/playlist?list=PLU10dryLOLEFp598xm9eH1nn_DRN7S5mt) soon.
+The video recording of the session is available on YouTube, [click here](https://youtu.be/c46vfAEGLMM) to watch it.
