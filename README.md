@@ -3,7 +3,7 @@
 The path to `C` is the renowned [*Journey through C*](https://github.com/tpauldike/journey_through_C) series reloaded.
 This series is about teaching `C programming` from the scratch in recorded Peer Learning Sessions with [Topman Paul-Dike](https://github.com/tpauldike), in a way that is easier for fellow students of ALX SE (who are serious indeed) to understand.
 
-The codes here are written in the live sessions which do not have a particular time schedule. But you can stay up to date and participate live by joining this [WhatsApp group](https://chat.whatsapp.com/FmMxUlVfbAvJf7XXUbCAwi)
+The codes here are written in the live sessions which do not have a particular time schedule. But you can contact Topman via any of the contact details on [his GitHub profile](https://github.com/tpauldike) stay up to date and participate live
 
 The essence of saving the codes and video recordings is to keep something that anyone learning `C programming` in ALX SE and beyond can refer to, at any moment in time.
 
